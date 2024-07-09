@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #606C5D;
+    color: #454545;
+    font-family: "Baskervville SC", serif;
+}
+
+h1 {
+    letter-spacing: 1px;
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+h2 {
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.flex {
+    background-color: #F7E6C4;
+    border-radius: 15px;
+    padding: 10px 50px;
+}
+
+.socialmedia {
+    text-align: center;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+    margin: 0 10px;
+    opacity: 60%;
+}
+
+hr {
+    border: 0.5px solid #F1C376;
+    
+}
